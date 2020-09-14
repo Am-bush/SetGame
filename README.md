@@ -1,0 +1,1 @@
+Built a web-based version of the Set card game, showing proficiency in HTML, CSS, and client-side JS.
