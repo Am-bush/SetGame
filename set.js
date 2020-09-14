@@ -1,12 +1,3 @@
-/**
- * Jeyamerun Subhas
- * 7/21/2020
- * Section: AE
- * TA: Jeff Worley
- * This is the set.js file linked to my set.html file.
- * Contains the user's interactions with the buttons, cards, etc. , and the game in general.
- */
-
 "use strict";
 
 (function() {
